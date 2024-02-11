@@ -1,0 +1,4 @@
+Employee: Emily Johnson
+Employee ID: 1002
+Position: HR Manager
+Weekly Pay: $114000.0
